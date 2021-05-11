@@ -1,6 +1,8 @@
 # Youtube-Subscriber-Counter-Using-ESP32
 This is a youtube subscriber counter using ESP32 and an oled I2c display to show the count which was fetched from youtube 
 
+Get Your Api Key From https://console.cloud.google.com/
+
 
 ![Screenshot (142)](https://user-images.githubusercontent.com/25906435/117784470-3a9ef580-b261-11eb-9d3d-4a9767d5f6bf.png)
 
